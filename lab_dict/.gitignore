@@ -1,0 +1,11 @@
+*.o
+data/
+.objs/*
+
+*.txt
+
+test
+find_common_words
+homophone_puzzle
+anagram_finder
+Doxyfile

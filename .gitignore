@@ -1,0 +1,17 @@
+lab_inheritance/out.png
+mp_stickers/background.png
+mp_stickers/leo.png
+mp_stickers/monster.png
+mp_stickers/text.png
+mp_lists/tests/*
+mp_lists/mp_lists
+potd/*
+stuff/*
+exam_practice/*
+gotw/*
+*.o
+*.exe
+.clang-format
+vscode/*
+
+Final Project/*

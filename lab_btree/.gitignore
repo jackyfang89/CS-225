@@ -1,0 +1,17 @@
+*.swp
+*.swo
+*.swn
+*.swm
+
+*.vscode
+
+*DS_Store
+*.o
+*.d
+.objs/
+
+test
+test_btree
+dict_racer
+
+results/
